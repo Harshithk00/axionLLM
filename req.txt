@@ -1,0 +1,16 @@
+fastapi 
+uvicorn 
+pytesseract 
+pdf2image 
+PyPDF2
+groq
+dotenv
+flask
+flask-cors
+PyMuPDF
+numpy
+opencv-python
+pytesseract
+Pillow
+transformers
+torch
